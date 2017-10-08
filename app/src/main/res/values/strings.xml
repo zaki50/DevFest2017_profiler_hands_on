@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profiler HandsOn</string>
+    <string name="cpu">CPU</string>
+    <string name="memory">Memory</string>
+    <string name="network">Network</string>
+    <string name="leak">Leak</string>
+    <string name="fetch">Fetch</string>
+</resources>
